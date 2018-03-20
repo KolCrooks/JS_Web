@@ -1,0 +1,36 @@
+body{
+    background-color: blanchedalmond;
+    margin:0px;
+}
+.Centered_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main{
+    background-color: whitesmoke;
+    height: 100%;
+    margin: 20px;
+    child-align: middle;
+}
+
+.Top_Bar{
+    overflow: hidden;
+    background-color: #56595B;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.Top_Bar a{
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 10px 10px;
+}
+.Top_Bar a:hover{
+    background: #9A9D9F;
+}
+
+.Home_Botton{
+
+}
