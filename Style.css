@@ -1,9 +1,11 @@
 body {
     background-color: #ededed;
     margin: 0px;
+    height:1000px;
 }
 
 .Centered_img{
+    width:70%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -32,6 +34,27 @@ body {
     background: #9A9D9F;
 }
 
-.Home_Botton{
+.Centered_img_out{
+    margin:10px;
+    background-color:#3F3F3F;
+}
+
+.info_area{
+    margin-top: 50px;
+
+}
+.info_area table,tr,th{
+    margin-left: auto;
+    margin-right: auto;
+    border-style: none;
+    padding-left: 130px;
+    padding-right: 130px;
+    table-layout: auto;
+}
+.info_area td{
+    table-layout: auto;
+    padding: 10px;
+}
+.Home_Botton {
 
 }
